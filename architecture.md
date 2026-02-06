@@ -6,9 +6,9 @@
 
 ## Main Components
 
-![Telegram Component Diagram](./Component%20Diagram.svg)
+![Telegram Component Diagram](./docs/diagrams/out/telegram/component-diagram/Component Diagram.svg)
 
-[View PlantUML Source Code](./component-diagram.puml)
+[View PlantUML Source Code](./docs/diagrams/src/telegram/component-diagram.puml)
 
 Selected key components from the diagram:
 
@@ -24,9 +24,9 @@ Selected key components from the diagram:
 
 ## Data Flow
 
-![Telegram Media Message Flow](./Sequence%20Diagram.svg)
+![Telegram Media Message Flow](./docs/diagrams/out/telegram/sequence-diagram/Sequence Diagram.svg)
 
-[View PlantUML Source Code](./sequence-diagram.puml)
+[View PlantUML Source Code](./docs/diagrams/src/telegram/sequence-diagram.puml)
 
 **Selected Flow: "1. Media Upload (Encrypted Parts)"**
 
@@ -40,9 +40,9 @@ When Alice sends a photo:
 
 ## Deployment
 
-![Telegram Deployment Diagram](./Deployment%20Diagram.svg)
+![Telegram Deployment Diagram](./docs/diagrams/out/telegram/deployment-diagram/Deployment Diagram.svg)
 
-[View PlantUML Source Code](./deployment-diagram.puml)
+[View PlantUML Source Code](./docs/diagrams/src/telegram/deployment-diagram.puml)
 
 Telegram’s infrastructure is deployed globally across multiple data centers:
 - **Clients**: Mobile apps (iOS/Android), desktop clients, and web browsers connect via MTProto over TCP, WebSocket, or HTTPS to the nearest **MTProto Gateway** at the edge layer.
