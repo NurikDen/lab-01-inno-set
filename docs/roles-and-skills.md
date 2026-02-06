@@ -58,4 +58,4 @@ The following analysis is based on a review of current Backend Developer job pos
 
 ## Personal reflection
 
-[This section is reserved for your personal reflection. Please write 5-10 sentences answering the questions about your chosen role, skill comparison, and development goals for the semester.]
+I'm tatar Pavel Durov.
