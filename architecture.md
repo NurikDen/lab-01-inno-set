@@ -1,6 +1,4 @@
-# Telegram Architecture Documentation
-
-## Product Choice
+## Product
 
 - **Product name**: Telegram  
 - **Website**: [https://telegram.org](https://telegram.org)  
